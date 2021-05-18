@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 18, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on the Discord Bot using discord.py, figured out how to show the instagram feed using both the bot and cv2.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The first half of the day was very unproductive and it's a bit difficult to decide what to work on. I'll try to find a more solid route by tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** To be Inserted when the bot is finished
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
