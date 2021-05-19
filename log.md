@@ -8,14 +8,13 @@
 
 **Link to work:** To be Inserted when the bot is finished
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 19, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked with Discord bot along with a [youtube playlist](https://www.youtube.com/playlist?list=PLYeOw6sTSy6bHr2w8nOV0CpKskuOuU1XE).
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It was pretty fun today, starting to learn how to write bots in a different way.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Carberra Discord Bot Github](https://github.com/Carberra/updated-discord.py-tutorial/)
 
 
 ### Day 1: June 27, Monday
