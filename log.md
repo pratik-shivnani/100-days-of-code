@@ -10,7 +10,7 @@
 
 ### Day 2: May 19, 2021 
 
-**Today's Progress**: Worked with Discord bot along with a [youtube playlist](https://www.youtube.com/playlist?list=PLYeOw6sTSy6bHr2w8nOV0CpKskuOuU1XE).
+**Today's Progress**: Worked with Discord bot along with a [youtube playlist](https://www.youtube.com/playlist?list=PLYeOw6sTSy6ZGyygcbta7GcpI8a5-Cooc).
 
 **Thoughts**: It was pretty fun today, starting to learn how to write bots in a different way.
 
