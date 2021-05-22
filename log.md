@@ -17,12 +17,21 @@
 **Link(s) to work**: [Carberra Discord Bot Github](https://github.com/Carberra/updated-discord.py-tutorial/)
 
 
-### Day 1: June 27, Monday
+### Day 3: May 20, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started a course - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒊𝒏𝒈 𝑪𝒍𝒐𝒖𝒅 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝑾𝒊𝒕𝒉 𝑵𝒐𝒅𝒆.𝒋𝒔 𝒂𝒏𝒅 𝑹𝒆𝒂𝒄𝒕 from EdX | Worked on some bugs in the Discord Bot
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: A pretty good day 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+NA
+
+
+### Day 4: May 21, 2021
+
+**Today's Progress**: Worked on making a navigator for Worm - A webnovel by Wildbow
+
+**Thoughts**: It was pretty fun to work with files in python and making a navigation system- to prevent spoilers ofc :P
+
+**Link(s) to work**
+[The Trinket Code](https://trinket.io/python/3fd95eab63)
