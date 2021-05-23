@@ -35,3 +35,13 @@ NA
 
 **Link(s) to work**
 [The Trinket Code](https://trinket.io/python/3fd95eab63)
+
+
+### Day 5: May 22, 2021
+
+**Today's Progress**: Revised JS, Finished week 1 of the EdX
+
+**Thoughts**: Found a better Js Course, would work with it on Day 6
+
+**Link(s) to work**
+NA
